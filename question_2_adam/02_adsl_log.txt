@@ -1,0 +1,53 @@
+====================================
+Run started at: 2026-04-03 15:03:09 
+Working/Output directory: C:/Users/cx325/OneDrive - Mass General Brigham Incorporated/int/Gene 
+====================================
+
+Code Summary:
+Number of lines of code: NA 
+
+QC — TRTSTMF check (expect 0 rows flagged): 0 
+QC — TRTEDTM < TRTSDTM check (expect 0 rows): 0 
+Treatment date QC checks passed.
+
+
+====================================
+Run completed successfully at: 2026-04-03 15:03:10 
+====================================
+
+Session Info:
+R version 4.5.3 (2026-03-11 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 10 x64 (build 19045)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] LC_COLLATE=English_United States.utf8  LC_CTYPE=English_United States.utf8   
+[3] LC_MONETARY=English_United States.utf8 LC_NUMERIC=C                          
+[5] LC_TIME=English_United States.utf8    
+
+time zone: America/New_York
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] lubridate_1.9.5       pharmaversesdtm_1.4.1 admiral_1.4.1         labelled_2.16.0      
+[5] readr_2.2.0           sdtm.oak_0.2.0        pharmaverseraw_0.1.1  stringr_1.6.0        
+[9] dplyr_1.2.0          
+
+loaded via a namespace (and not attached):
+ [1] bit_4.6.0        compiler_4.5.3   crayon_1.5.3     tidyselect_1.2.1 xml2_1.5.2      
+ [6] parallel_4.5.3   tidyr_1.3.2      R6_2.6.1         generics_0.1.4   curl_7.0.0      
+[11] admiraldev_1.4.0 knitr_1.51       forcats_1.0.1    tibble_3.3.1     pillar_1.11.1   
+[16] tzdb_0.5.0       rlang_1.1.7      stringi_1.8.7    roxygen2_7.3.3   xfun_0.57       
+[21] bit64_4.6.0-1    otel_0.2.0       timechange_0.4.0 cli_3.6.5        withr_3.0.2     
+[26] magrittr_2.0.4   vroom_1.7.0      haven_2.5.5      hms_1.1.4        lifecycle_1.0.5 
+[31] vctrs_0.7.2      evaluate_1.0.5   glue_1.8.0       purrr_1.2.1      tools_4.5.3     
+[36] pkgconfig_2.0.3 
+
+Output Summary:
+Number of lines in log file: 50 

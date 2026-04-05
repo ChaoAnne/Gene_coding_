@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+"""
 ========================================================
 Question 4: GenAI Clinical Data Assistant
 Author: Chao Ma
